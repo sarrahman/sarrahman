@@ -5,4 +5,4 @@
 - 📫 Anda bisa menghubungi saya melalui sarrahman.dev@gmail.com atau support saya melalui halaman ini https://www.buymeacoffee.com/sarrahman
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarrahman&theme=tokyonight)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=CharalambosIoannou&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sarrahman&show_icons=true&theme=tokyonight)
