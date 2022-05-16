@@ -1,4 +1,4 @@
-- 👋 Hi, Namaku adalah M. Nur Rahman, atau biasa di panggil rahman
+- 👋 Hi, Saya Rahman, saya mern web developer
 - 👀 Saya tertarik dengan MERN (mongodb, express js, react js, nodejs), saya sudah membuat beberapa project dengan stack ini seperti Aplikasi berbasis web, Toko Online Dll. 
 - 🌱 saat ini saya sedang belajar react native untuk pembuatan aplikasi mobile android & ios
 - 💞️ Saya sedang mencari pekerjaan untuk web developer terutama untuk React js
