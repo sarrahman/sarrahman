@@ -19,7 +19,7 @@
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/node-js/node-js.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
+ <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
  <img src="https://ik.imagekit.io/sarrahman/nodejs_K4WxPYg8P.png?ik-sdk-version=javascript-1.4.3&updatedAt=1652670778261" alt="Nodejs" height="40" style="vertical-align:top; margin:4px">
  <img src="https://ik.imagekit.io/sarrahman/react_K6TCU9asQ.png?ik-sdk-version=javascript-1.4.3&updatedAt=1652670778260" alt="React" height="40" style="vertical-align:top; margin:4px">
  <img src="https://ik.imagekit.io/sarrahman/MongoDB-Logo_qspD4Z7vo.png?ik-sdk-version=javascript-1.4.3&updatedAt=1652670778412" alt="MOngodb" height="40" style="vertical-align:top; margin:4px">
