@@ -1,7 +1,7 @@
 - 👋 Hi, Saya Rahman, saya mern web developer
 - 👀 Saya tertarik dengan MERN (mongodb, express js, react js, nodejs), saya sudah membuat beberapa project dengan stack ini seperti Aplikasi berbasis web, Toko Online Dll. 
-- 🌱 saat ini saya sedang belajar react native untuk pembuatan aplikasi mobile android & ios
-- 💞️ Saya sedang mencari pekerjaan untuk web developer terutama untuk React js
+- 🌱 saat ini saya sedang membangun project medium to large pertama saya menggunakan nextjs (typescript) tailwindcss dan nodejs.
+- 💞️ Saya sedang mencari pekerjaan untuk web developer terutama untuk React js (Next JS & Typescript)
 - 📫 Anda bisa menghubungi saya melalui sarrahman.dev@gmail.com atau support saya melalui halaman ini https://www.buymeacoffee.com/sarrahman
 
 <br />
