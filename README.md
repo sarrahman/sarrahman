@@ -23,12 +23,3 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarrahman&theme=tokyonight)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sarrahman&show_icons=true&theme=tokyonight)
 
-<br />
-
-name: Half-year calendar
-uses: lowlighter/metrics@latest
-with:
-  filename: metrics.plugin.isocalendar.svg
-  token: ${{ secrets.METRICS_TOKEN }}
-  base: ""
-  plugin_isocalendar: yes
